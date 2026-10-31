@@ -1,0 +1,6 @@
+{
+  "name": "Infographic Quy Định 227-QĐ/T.Ư",
+  "description": "Infographic tương tác về Quy định 227-QĐ/T.Ư của Bộ Chính trị về đánh giá, xếp loại cán bộ, công chức, viên chức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
